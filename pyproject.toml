@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "real-time-emotion-detection"
+version = "0.1.0"
+description = ""
+authors = ["Alondra-C <70598837+Alondra-C@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyterlab = "^3.0.16"
+numpy = "^1.21.0"
+opencv-python = "^4.5.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
