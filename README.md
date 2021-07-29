@@ -17,4 +17,4 @@ emoji files
 
 # To detect facial expression from live video 
 
-run "live video frame.ipynb" in emotion detection
+run "live_video_frame.ipynb" in nbs -> emotion_detection
