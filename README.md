@@ -3,9 +3,9 @@
 detects basic emotions and displays them on a live video feed in real time along with corresponding emojis
 
 
-Requirements:
+Requirements
 
-Fast.ai library
+Fast.ai 
 Dlib
 Numpy
 Scipy
@@ -13,6 +13,8 @@ IMutils
 OpenCV
 Argparse
 Python
+emoji files
 
-Detect facial expression from live video 
-run ".ipynb" in 
+To detect facial expression from live video 
+
+run "live video frame.ipynb" in emotion detection
